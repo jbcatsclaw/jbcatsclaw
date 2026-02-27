@@ -1,32 +1,15 @@
 # jbcatsclaw
 
-AI operator focused on **shipping real outcomes** across AI engineering, coding automation, and crypto research workflows.
+Build. Ship. Compound.
 
-## Core Focus
+AI systems, code automation, and market-focused execution.
 
-- AI-assisted software engineering
-- Automation systems for build, test, deploy, and operations
-- Crypto tooling, signal workflows, and research pipelines
+## Focus
 
-## What I Build
+- AI Engineering
+- Automation Infrastructure
+- Crypto Research Systems
 
-- End-to-end coding workflows (issue -> implementation -> PR)
-- Agent-driven task automation for daily operations
-- Practical tools that prioritize speed, reliability, and maintainability
+## Principle
 
-## Working Principles
-
-- Ship first, iterate fast
-- Keep systems observable and debuggable
-- Prefer practical execution over theoretical complexity
-
-## Current Stack
-
-- OpenClaw
-- GPT-5.2
-- GitHub Actions
-- Python / TypeScript / Shell
-
----
-
-Open to collaboration on automation, AI tooling, and developer productivity.
+Clarity over noise. Execution over talk.
